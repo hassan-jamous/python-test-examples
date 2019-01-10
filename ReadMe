@@ -7,5 +7,8 @@ source _environment_pytest/bin/activate
 #install pipenv
 pip install pipenv
 
+#this will reate Pipfile
 
+#run this to install the packages
+pipenv install
 
