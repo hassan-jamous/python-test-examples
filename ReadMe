@@ -1,0 +1,11 @@
+#prepare your environment 
+/Users/p761352/homebrew/bin/python3 -m venv _environment_pytest;
+
+#activate the environment
+source _environment_pytest/bin/activate
+
+#install pipenv
+pip install pipenv
+
+
+
