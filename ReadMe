@@ -7,8 +7,14 @@ source _environment_pytest/bin/activate
 #install pipenv
 pip install pipenv
 
-#this will reate Pipfile
+#this will create Pipfile
 
-#run this to install the packages
+#install library 
+pipenv install <library>
+
+#install div library
+pipenv install --dev <library>
+
+#run this to install all the packages
 pipenv install
 
